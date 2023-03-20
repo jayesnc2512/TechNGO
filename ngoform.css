@@ -1,0 +1,72 @@
+body{  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: rgb(255, 255, 255);
+    font-family: 'Montserrat',sans-serif;
+    
+  }  
+  .container {
+      padding: 50px;
+      background-color:#eee284;
+      border: 1px solid;
+      border-radius: 35px;
+      padding: 10px;
+      box-shadow: 5px 10px 8px 10px #646464;
+      width: 50%;
+      margin: auto;
+      color: rgb(0, 0, 0);
+      -webkit-border-radius: 35px;
+      -moz-border-radius: 35px;
+      -ms-border-radius: 35px;
+      -o-border-radius: 35px;
+}  
+    
+  input[type=text], input[type=password], input[type=number] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff;
+    opacity: 100%;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}  
+ 
+  input[type=text]:focus, input[type=password]:focus ,input[type=number]:focus {  
+    background-color: #fff;  
+    outline: none;  
+    opacity: 100%;
+  }  
+   div {  
+              padding: 10px 0;  
+           }  
+  hr {  
+    border: 1px solid #f1f1f1;  
+    margin-bottom: 25px;  
+  }  
+  .registerbtn {  
+    background-color: #4CAF50;  
+    color: white;  
+    padding: 16px 20px;  
+    margin: 8px 0;  
+    border: none;  
+    cursor: pointer;  
+    width: 100%;  
+    opacity: 0.9;  
+  }  
+  .registerbtn:hover {  
+    opacity: 1;  
+  } 
+  .navigation-bar{
+    margin:0 20%;
+}
+textarea{
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
